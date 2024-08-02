@@ -1,6 +1,10 @@
 # Resolute-Internship
 ### HI, in this intership i have made a CNN model which classifies whether a image has a solar panel or not.
 
+## More Details
+### [Certificate](https://drive.google.com/file/d/1ZUFKeqeE504BVW8-rU9eb6Fc5KDsbtlU/view?usp=sharing)
+### [Report](https://drive.google.com/file/d/1H7G7W6FloiAZ2DC4I-fbPwPl2dDSxTug/view?usp=drive_link)
+
 ## Dataset
 There is a Training images folder, Testing Images, and a csv file that you will need to do this project.
 ### [Training Images](https://drive.google.com/drive/folders/1qDF91YBVjfWKdHSk_cjYNYDjBNIP3kUE?usp=drive_link)
